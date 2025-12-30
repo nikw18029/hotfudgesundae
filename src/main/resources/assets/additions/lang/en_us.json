@@ -1,0 +1,13 @@
+{
+  "itemGroup.additions": "Example Mod Tab",
+  "block.additions.example_block": "Example Block",
+  "item.additions.example_item": "Example Item",
+
+  "additions.configuration.title": "Additions Configs",
+  "additions.configuration.section.additions.common.toml": "Additions Configs",
+  "additions.configuration.section.additions.common.toml.title": "Additions Configs",
+  "additions.configuration.items": "Item List",
+  "additions.configuration.logDirtBlock": "Log Dirt Block",
+  "additions.configuration.magicNumberIntroduction": "Magic Number Text",
+  "additions.configuration.magicNumber": "Magic Number"
+}
